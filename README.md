@@ -1,5 +1,5 @@
 # Olympic Medal Victory Points Ladder
-Simple python script which uses the (MedalBot)[http://www.medalbot.com/] API to calculated Victory Points for each country at the Olympics.
+Simple python script which uses the [MedalBot](http://www.medalbot.com/) API by Ed Kelley to calculated Victory Points for each country at the Olympics.
 
 I think this is a fairer way of calculating a country-by-country leaderboard.
 It should be noted that the IOC does not actually tally based on country, it is meant to be per athlete, however basically everyone these days goes of per country (yay, patriotism!) 
